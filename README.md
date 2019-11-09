@@ -1,2 +1,2 @@
-# bashando
+# BashANDocs
 Catalogando aprendizado em bash
